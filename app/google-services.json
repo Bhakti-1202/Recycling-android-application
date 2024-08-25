@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "119687727837",
+    "firebase_url": "https://greenworks-ed811-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "greenworks-ed811",
+    "storage_bucket": "greenworks-ed811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119687727837:android:da48f41cede4544e65e934",
+        "android_client_info": {
+          "package_name": "com.orlando.greenworks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTG2PUAlD4MvnSeN3q-F-29buZTmUfsZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
